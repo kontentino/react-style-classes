@@ -1,5 +1,5 @@
-const classes = (...arguments) => {
-  return Array.from(arguments).filter(item => !!item).join(" ");
-};
+'use-strict';
 
-export default classes;
+export default (...inputArguments) => {
+  return Array.from(inputArguments).filter(item => !!item).join(" ");
+}
