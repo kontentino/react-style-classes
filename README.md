@@ -20,15 +20,12 @@ import classes from 'react-style-classes';
 ```javascript
 <div className={ classes("className1", "className2") } />
 ```
-or
+or use CSS modules
 ```javascript
 <div className={ classes("className1", "className2", style.container) } />
 ```
 
-#### Boolean values
+#### Automatically filters boolean values
 ```javascript
 <div className={ classes("className1", "className2", isModalVisible && style.modalWrapper) } />
 ```
-
-### Test
-`$ npm run test`
