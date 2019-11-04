@@ -11,7 +11,9 @@
     "react-style-classes",
     "kontentino",
     "react",
-    "styles"
+    "styles",
+    "es6",
+    "css-modules"
   ],
   "author": "Kontentino",
   "license": "ISC",

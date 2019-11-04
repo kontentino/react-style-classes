@@ -27,5 +27,5 @@ or use CSS modules
 
 #### Automatically filters boolean values
 ```javascript
-<div className={ classes("className1", "className2", isModalVisible && style.modalWrapper) } />
+<div className={ classes("className1", "className2", isModalVisible && style.modalWrapperVisible) } />
 ```
