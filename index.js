@@ -1,7 +1,5 @@
-'use strict';
+const classes = (...arguments) => {
+  return Array.from(arguments).filter(item => !!item).join(" ");
+};
 
-module.exports = function() {
-  return Array.from(arguments).filter(function(item) {
-    return !!item;
-  }).join(" ");
-}
+export default classes;

@@ -1,8 +1,8 @@
 ![Kontentino - Making social media a piece of cake](https://static.kontentino.com/img/logo/logo.svg)
 
-# react-style-classes by [Kontentino](https://github.com/kontentino/react-style-classes)
+# react-style-classes by [Kontentino](https://www.kontentino.com/)
 
-**GITHUB:** [react-style-classes]()
+**GITHUB:** [react-style-classes](https://github.com/kontentino/react-style-classes)
 
 Javascript package for merge arguments of component style classnames or merge another arguments.
 
@@ -12,24 +12,23 @@ or
 `$ yarn add react-style-classes`
 
 ## Usage
-```react
-const classes = require('react-style-classes');
-```
-or
-```react
-import * as classes from 'react-style-classes';
+```javascript
+import classes from 'react-style-classes';
 ```
 
 ### Example
-```react
+```javascript
 <div className={ classes("className1", "className2") } />
 ```
 or
-```react
+```javascript
 <div className={ classes("className1", "className2", style.container) } />
 ```
 
 #### Boolean values
-```react
+```javascript
 <div className={ classes("className1", "className2", isModalVisible && style.modalWrapper) } />
 ```
+
+### Test
+`$ npm run test`
