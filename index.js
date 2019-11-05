@@ -1,5 +1,7 @@
 'use-strict';
 
-export default (...inputArguments) => {
-  return Array.from(inputArguments).filter(item => !!item).join(" ");
+export default function(){
+  return Array.from(arguments).filter(function(item) {
+    return !!item;
+  }).join(" ");
 }
