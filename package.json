@@ -16,7 +16,7 @@
     "css-modules"
   ],
   "author": "Kontentino",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/kontentino/react-style-classes.git"
