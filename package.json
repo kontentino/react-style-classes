@@ -1,6 +1,6 @@
 {
   "name": "react-style-classes",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Javascript package for merge arguments",
   "main": "index.js",
   "scripts": {
