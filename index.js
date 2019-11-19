@@ -1,6 +1,6 @@
 'use-strict';
 
-export default function(){
+module.exports = function(){
   return Array.from(arguments).filter(function(item) {
     return !!item;
   }).join(" ");
