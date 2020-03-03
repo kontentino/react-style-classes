@@ -4,8 +4,6 @@
 
 **GITHUB:** [react-style-classes](https://github.com/kontentino/react-style-classes)
 
-[https://github.com/kontentino/kontentino-ui/workflows/Lint/badge.svg](https://github.com/kontentino/kontentino-ui/workflows/Lint/badge.svg)
-
 Javascript package for merge arguments of component style classnames or merge another arguments.
 
 ## Installation
