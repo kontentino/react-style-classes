@@ -2,12 +2,10 @@
 
 # react-style-classes by [Kontentino](https://www.kontentino.com/)
 
-**GITHUB:** [react-style-classes](https://github.com/kontentino/react-style-classes)
-
-Javascript package for merge arguments of component style classnames or merge another arguments.
-
 ![](https://github.com/kontentino/react-style-classes/workflows/Test/badge.svg)
 ![npm](https://img.shields.io/npm/v/react-style-classes?style=plastic)
+
+Javascript package for merge arguments of component style classnames or merge another arguments.
 
 ## Installation
 `$ npm install react-style-classes`
