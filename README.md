@@ -6,7 +6,7 @@
 
 Javascript package for merge arguments of component style classnames or merge another arguments.
 
-![](https://github.com/kontentino/kontentino-ui/workflows/Lint/badge.svg)
+![](https://github.com/kontentino/react-style-classes/workflows/Test/badge.svg)
 
 ## Installation
 `$ npm install react-style-classes`
