@@ -1,1 +1,3 @@
-Ivan Hanák @hanakivan
+- [Patrik Mäsiar](https://github.com/massoprod)
+- [Ivan Hanák](https://github.com/hanakivan)
+- [Filip Papranec](https://github.com/filippofilip95)

@@ -27,6 +27,11 @@ or use CSS modules
 <div className={ classes("className1", "className2", style.container) } />
 ```
 
+or even use Array
+```javascript
+<div className={ classes("className1", "className2", ['class1', 'class2']) } />
+```
+
 #### Automatically filters boolean values
 ```javascript
 <div className={ classes("className1", "className2", isModalVisible && style.modalWrapperVisible) } />
