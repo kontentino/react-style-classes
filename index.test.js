@@ -23,4 +23,10 @@ describe("Test react-style-classes function", () => {
 
         expect(styles === 'container wrapper modal').toBeTruthy();
     });
+
+    test('combine string and array classnames', () => {
+        const styles = classes('container', ["containerFixed", "containerFixed"]);
+
+        expect(styles === 'container containerFixed containerFixed').toBeTruthy();
+    });
 });
