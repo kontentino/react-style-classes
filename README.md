@@ -2,7 +2,9 @@
 
 # react-style-classes by [Kontentino](https://www.kontentino.com/)
 
-**GITHUB:** [react-style-classes](https://github.com/kontentino/react-style-classes)
+[![](https://github.com/kontentino/react-style-classes/workflows/Test/badge.svg)](https://github.com/kontentino/react-style-classes/actions)
+[![npm](https://img.shields.io/npm/v/react-style-classes?style=plastic)](https://www.npmjs.com/package/react-style-classes)
+[![NPM](https://img.shields.io/npm/l/react-style-classes)](https://github.com/kontentino/react-style-classes/blob/master/LICENSE)
 
 Javascript package for merge arguments of component style classnames or merge another arguments.
 
